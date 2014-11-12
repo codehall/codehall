@@ -6,20 +6,15 @@ codehall
 - Gitignore file comes from [gitignore project](https://github.com/github/gitignore).
 - Release notes must contain a changelog section. Optionally a section describing API changes and incompatibility with previous releases. [VRaptor 4 release notes](https://github.com/caelum/vraptor4/releases) implement this.
 - Labels and colors:
- - 1e90ff
-   - structure
-   - feature
-   - test
- - b22222
-   - critical
-   - bug
-   - wontfix
- - 7cfc00
-   - enhancement
-   - suggestion
-   - discussion
- - fbca04
-   - help wanted
-   - question
- - d4c5f9
-   - documentation
+   - structure [1e90ff]
+   - feature [1e90ff]
+   - test [1e90ff]
+   - critical [b22222]
+   - bug [b22222]
+   - wontfix [b22222]
+   - enhancement [7cfc00]
+   - suggestion [7cfc00]
+   - discussion [7cfc00]
+   - help wanted [fbca04]
+   - question [fbca04]
+   - documentation [d4c5f9]
