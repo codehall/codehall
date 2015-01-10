@@ -17,3 +17,10 @@ codehall
    - help wanted [fbca04]
    - question [fbca04]
    - documentation [d4c5f9]
+
+Workflow rules
+==============
+- Any branch will be tested in CI server.
+- Any push to master branch, beeing a snapshot or a release, will result in deployment at packages repository.
+- Release pushes to master branch will result in homologation server deployment.
+- Pushing final version releases to master branch will result in production server deployment.
